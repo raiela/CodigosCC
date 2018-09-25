@@ -1,1 +1,1 @@
-# codesPython
+Alguns códigos salvos para estudo
