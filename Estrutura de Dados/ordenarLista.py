@@ -1,4 +1,4 @@
-'''Ordenação de um jeito muito pouco eficiente'''
+'''Ordenação de um jeito muito pouco eficiente (SEM NOME)'''
 
 lista = list(map(int, input("Digite a lista a ser ordenada: ").split()))
 menor = lista[0]
