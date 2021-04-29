@@ -1,0 +1,42 @@
+layout = go.Layout(
+   {
+      "title":"Parliamentary Election 2019",
+      "grid": {"rows": 1, "columns": 2},
+      "annotations": [
+         {
+            "font": {
+               "size": 20
+            },
+            "showarrow": False,
+            "text": "seats",
+            "x": 0.20,
+            "y": 0.5
+         },
+         {
+            "font": {
+               "size": 20
+            },
+            "showarrow": False,
+            "text": "votes",
+            "x": 0.8,
+            "y": 0.5
+         }
+      ]
+   }
+)
+
+https://www.tutorialspoint.com/plotly/plotly_bar_and_pie_chart.htm go bar exemplo
+https://github.com/plotly/plotly.py/blob/master/doc/python/horizontal-bar-charts.md go bar charts
+https://plotly.com/python/reference/layout/ layout
+
+https://plotly.com/python/figure-labels/ vai ser util
+
+
+https://matplotlib.org/stable/gallery/lines_bars_and_markers/barh.html matplotlib
+
+https://paulovasconcellos.com.br/como-criar-gr%C3%A1ficos-interativos-utilizando-plotly-e-python-3eb6eda57a2b
+
+        gene_data.append(g)
+        x_data.append(float(x))
+        y_data.append(float(y))
+        state_data.append(z)
