@@ -11,9 +11,6 @@ obMedia = [384.66,826.33, 1580.33, 3131.33, 6722.33, 13970, 27719, 51468.33]
 
 m, b, r_value, p_value, std_err = stats.linregress(size , obMedia)
 
+print("R value")
+print(r_value)
 
-print("Valores de m e b")
-print(m, b)
-
-plt.plot(size, obMedia)
-plt.show()
