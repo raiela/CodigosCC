@@ -1,0 +1,1 @@
+Algumas soluções de problemas lógicos que eu desenvolvi apenas por diversão.
