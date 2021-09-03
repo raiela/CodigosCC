@@ -1,0 +1,6 @@
+A aplicação servirá para armazenar a lista de possíveis Casters do jogo CS:GO.
+
+Um caster é um narrador do jogo. Em competições de CS, vários jogos são realizados simultanemanete. É interessante saber quais as disponibilidades de cada narrador e manter um registro deles. É nisso que a aplicação está preocupada em realizar. 
+
+Vai ser guarado o nome do narrador, um id para identificálos e os dias disponíveis. 
+
